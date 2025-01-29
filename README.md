@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust related to mutable and immutable references.  The code in `bug.rs` will compile and run but shows the potential for confusion. The correct solution is in `bugSolution.rs`.  This example emphasizes the importance of understanding Rust's borrowing rules to avoid common pitfalls.
